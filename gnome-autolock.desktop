@@ -1,0 +1,8 @@
+[Desktop Entry]
+# github.com/smcclennon/gnome-autolock
+Name=Gnome Autolock
+Exec=bash -c 'cd ~/ && python3 Applications/gnome-autolock.py'
+Type=Application
+Terminal=false
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
